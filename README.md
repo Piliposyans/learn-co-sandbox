@@ -1,3 +1,112 @@
+team = "Arsenal"
+
+def premier_league(team)
+puts "The best football club in the world is #{team}"
+end 
+
+premier_league(team)
+
+
+def returning_true
+14<15
+end 
+
+
+dog = "satisfied"
+ 
+if dog == "hungry"
+  puts "Refilling food bowl."
+else
+  puts "Reading newspaper."
+end
+
+
+dog = "thirsty"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ print "Enter your grade: "
+grade = gets.chomp
+ 
+case grade
+  when "A"
+    puts "Good job, Homestar!"
+  when "B"
+    puts "You can totally do better!"
+  when "C"
+    puts "Find a mentor to help you!"
+  else
+    puts "You're just making that up!"
+end
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+if dog == "hungry"
+  puts "Refilling food bowl."
+elsif dog == "thirsty"
+  puts "Refilling water bowl."
+else
+  puts "Reading newspaper."
+end
+
+dog = "cuddly"
+ 
+if dog == "hungry"
+  puts "Refilling food bowl."
+elsif dog == "thirsty"
+  puts "Refilling water bowl."
+elsif dog == "playful"
+  puts "Playing tug-of-war."
+elsif dog == "cuddly"
+  puts "Snuggling."
+else
+  puts "Reading newspaper."
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hi! 👋
 
